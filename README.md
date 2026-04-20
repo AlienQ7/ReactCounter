@@ -1,6 +1,6 @@
 # React Counter Application
 
-**Live Demo:** [https://Reactcounter-4r4.pages.dev](https://Reactcounter-4r4.pages.dev)
+**Live Demo:** https://reactcounter-4r4.pages.dev
 
 A clean, functional Counter application built with **React.js** and **Vite**. This project demonstrates state management using hooks and a component-based architecture, deployed via **Cloudflare Pages**.
 
@@ -20,7 +20,8 @@ A clean, functional Counter application built with **React.js** and **Vite**. Th
 ```text
 ReactCounter/
 ├── src/
-│   ├── App.jsx        
+│   ├── App.jsx
+    ├── Counter.jsx
 │   ├── main.jsx       
 │   └── index.css      
 ├── vite.config.js           
